@@ -1,0 +1,19 @@
+
+body {
+    background: #FAFAFA;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+
+#tweet {
+  font-family: 'Roboto', sans-serif;
+  color: #263238;
+  background-color:#FFF3E0;
+  font-size: 20px;
+  box-shadow: 1px 1px 5px #888888;
+}
