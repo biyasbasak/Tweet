@@ -1,5 +1,5 @@
 Tweets = new Mongo.Collection('tweets');
-Options = new Mongo.Collection('options');
+
 
 TweetSchema = new SimpleSchema({
 	twit_id:{
